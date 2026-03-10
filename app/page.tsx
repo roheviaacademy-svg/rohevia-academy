@@ -2,7 +2,7 @@ import CandlestickBackground from "./components/CandlestickBackground";
 export default function Home() {
   return (
     <main style={{
-      background:"#020617",
+      background:"transparent",
       color:"white",
      minHeight:"100vh",
       display:"flex",
