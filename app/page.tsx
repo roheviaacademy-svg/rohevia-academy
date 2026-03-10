@@ -46,6 +46,92 @@ padding:"60px 20px",
 
       </div>
 <section style={{
+marginTop:"120px",
+textAlign:"center"
+}}>
+
+<h2 style={{fontSize:"36px",marginBottom:"40px"}}>
+Why Choose Rohevia Academy
+</h2>
+
+<div style={{
+display:"grid",
+gridTemplateColumns:"repeat(2,1fr)",
+gap:"30px",
+maxWidth:"900px",
+margin:"auto"
+}}>
+
+<div style={{background:"#111827",padding:"25px",borderRadius:"15px"}}>
+<h3>5+ Years Trading Experience</h3>
+<p>Learn from real live market trading experience.</p>
+</div>
+
+<div style={{background:"#111827",padding:"25px",borderRadius:"15px"}}>
+<h3>CWRV Strategy</h3>
+<p>High probability trading concepts for consistent profits.</p>
+</div>
+
+<div style={{background:"#111827",padding:"25px",borderRadius:"15px"}}>
+<h3>Live Market Mentorship</h3>
+<p>Learn how to analyse charts in real trading conditions.</p>
+</div>
+
+<div style={{background:"#111827",padding:"25px",borderRadius:"15px"}}>
+<h3>Personal Support</h3>
+<p>Get guidance and feedback to improve your trading.</p>
+</div>
+
+</div>
+
+</section><section style={{
+marginTop:"120px",
+textAlign:"center",
+maxWidth:"1000px",
+marginInline:"auto"
+}}>
+
+<h2 style={{fontSize:"36px",marginBottom:"40px"}}>
+Student Results
+</h2>
+
+<div style={{
+display:"grid",
+gridTemplateColumns:"repeat(3,1fr)",
+gap:"30px"
+}}>
+
+<div style={{
+background:"#111827",
+padding:"25px",
+borderRadius:"15px"
+}}>
+<p>"After joining Rohevia Academy I finally understood market structure and started taking better trades."</p>
+<h4 style={{marginTop:"15px",opacity:0.7}}>– Student from Kenya</h4>
+</div>
+
+<div style={{
+background:"#111827",
+padding:"25px",
+borderRadius:"15px"
+}}>
+<p>"CWRV concept completely changed my trading. The live mentorship sessions helped me improve fast."</p>
+<h4 style={{marginTop:"15px",opacity:0.7}}>– Student from India</h4>
+</div>
+
+<div style={{
+background:"#111827",
+padding:"25px",
+borderRadius:"15px"
+}}>
+<p>"Best trading mentorship I joined. Strategies are simple and very powerful."</p>
+<h4 style={{marginTop:"15px",opacity:0.7}}>– Student from UAE</h4>
+</div>
+
+</div>
+
+</section>
+<section style={{
   marginTop:"120px",
   display:"flex",
   justifyContent:"center",
@@ -229,92 +315,8 @@ Enroll Now
 
 </div>
 
-</section><section style={{
-marginTop:"120px",
-textAlign:"center"
-}}>
-
-<h2 style={{fontSize:"36px",marginBottom:"40px"}}>
-Why Choose Rohevia Academy
-</h2>
-
-<div style={{
-display:"grid",
-gridTemplateColumns:"repeat(2,1fr)",
-gap:"30px",
-maxWidth:"900px",
-margin:"auto"
-}}>
-
-<div style={{background:"#111827",padding:"25px",borderRadius:"15px"}}>
-<h3>5+ Years Trading Experience</h3>
-<p>Learn from real live market trading experience.</p>
-</div>
-
-<div style={{background:"#111827",padding:"25px",borderRadius:"15px"}}>
-<h3>CWRV Strategy</h3>
-<p>High probability trading concepts for consistent profits.</p>
-</div>
-
-<div style={{background:"#111827",padding:"25px",borderRadius:"15px"}}>
-<h3>Live Market Mentorship</h3>
-<p>Learn how to analyse charts in real trading conditions.</p>
-</div>
-
-<div style={{background:"#111827",padding:"25px",borderRadius:"15px"}}>
-<h3>Personal Support</h3>
-<p>Get guidance and feedback to improve your trading.</p>
-</div>
-
-</div>
-
-</section><section style={{
-marginTop:"120px",
-textAlign:"center",
-maxWidth:"1000px",
-marginInline:"auto"
-}}>
-
-<h2 style={{fontSize:"36px",marginBottom:"40px"}}>
-Student Results
-</h2>
-
-<div style={{
-display:"grid",
-gridTemplateColumns:"repeat(3,1fr)",
-gap:"30px"
-}}>
-
-<div style={{
-background:"#111827",
-padding:"25px",
-borderRadius:"15px"
-}}>
-<p>"After joining Rohevia Academy I finally understood market structure and started taking better trades."</p>
-<h4 style={{marginTop:"15px",opacity:0.7}}>– Student from Kenya</h4>
-</div>
-
-<div style={{
-background:"#111827",
-padding:"25px",
-borderRadius:"15px"
-}}>
-<p>"CWRV concept completely changed my trading. The live mentorship sessions helped me improve fast."</p>
-<h4 style={{marginTop:"15px",opacity:0.7}}>– Student from India</h4>
-</div>
-
-<div style={{
-background:"#111827",
-padding:"25px",
-borderRadius:"15px"
-}}>
-<p>"Best trading mentorship I joined. Strategies are simple and very powerful."</p>
-<h4 style={{marginTop:"15px",opacity:0.7}}>– Student from UAE</h4>
-</div>
-
-</div>
-
-</section><section style={{
+</section>
+<section style={{
 marginTop:"120px",
 maxWidth:"900px",
 marginInline:"auto"
