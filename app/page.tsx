@@ -1,4 +1,4 @@
-export default function Home() {
+import CandlestickBackground from "./components/CandlestickBackground";export default function Home() {
   return (
     <main style={{
       background:"#020617",
@@ -10,7 +10,7 @@ export default function Home() {
 padding:"60px 20px",
       alignItems:"center",
       fontFamily:"sans-serif"
-    }}>
+    }}><CandlestickBackground />
 
       <h1 style={{fontSize:"50px"}}>
         Rohevia Academy
