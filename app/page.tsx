@@ -14,15 +14,21 @@ padding:"60px 20px",
     }}>
       <CandlestickBackground />
 
-      <h1 style={{fontSize:"50px"}}>
+      <h1 style={{fontSize:"clamp(32px,6vw,50px)",textAlign:"center"}}>
         Rohevia Academy
       </h1>
 
-      <p style={{opacity:0.7,fontSize:"20px"}}>
+     <p style={{opacity:0.7,fontSize:"clamp(16px,3vw,20px)",textAlign:"center"}}>
         Learn Professional Binary Options Trading
       </p>
 
-      <div style={{marginTop:"30px",display:"flex",gap:"20px"}}>
+     <div style={{
+marginTop:"30px",
+display:"flex",
+gap:"20px",
+flexWrap:"wrap",
+justifyContent:"center"
+}}>
 
         <button style={{
           background:"#22c55e",
@@ -56,7 +62,7 @@ Why Choose Rohevia Academy
 
 <div style={{
 display:"grid",
-gridTemplateColumns:"repeat(2,1fr)",
+gridTemplateColumns:"repeat(auto-fit,minmax(250px,1fr))",
 gap:"30px",
 maxWidth:"900px",
 margin:"auto"
@@ -97,7 +103,7 @@ Student Results
 
 <div style={{
 display:"grid",
-gridTemplateColumns:"repeat(3,1fr)",
+gridTemplateColumns:"repeat(auto-fit,minmax(250px,1fr))",
 gap:"30px"
 }}>
 
@@ -134,9 +140,10 @@ borderRadius:"15px"
 <section style={{
   marginTop:"120px",
   display:"flex",
-  justifyContent:"center",
-  gap:"40px",
-  flexWrap:"wrap"
+justifyContent:"center",
+gap:"40px",
+flexWrap:"wrap",
+maxWidth:"1200px"
 }}>
 
 {/* ADVANCED */}
